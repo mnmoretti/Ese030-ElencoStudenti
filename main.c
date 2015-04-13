@@ -28,7 +28,7 @@
      } 
      
      for(i=0;i<N;i++) { 
-         printf("\n%s, %s, %d, %s", studente[i].nome, studente[i].cognome, studente[i].eta, studente[i].classe); 
+         printf("\n%s, %s, %d, %s", alunno[i].nome, alunno[i].cognome, alunno[i].eta, alunno[i].classe); 
      } 
      
      return (EXIT_SUCCESS); 
